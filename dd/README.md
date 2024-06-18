@@ -1,2 +1,0 @@
-# django-auth
-django-auth
